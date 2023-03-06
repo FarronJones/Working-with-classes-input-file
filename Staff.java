@@ -1,5 +1,5 @@
 
-package H9;
+package Main;
 
 //public class Staff extends Employee, implements Comparable<Staff>
 public class Staff extends Employee implements Comparable<Staff>  {
