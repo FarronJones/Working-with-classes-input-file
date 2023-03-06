@@ -1,4 +1,4 @@
-package main;
+package Main;
 
 //public class Person
 public class Person {
