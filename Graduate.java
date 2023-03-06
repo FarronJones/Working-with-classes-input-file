@@ -1,5 +1,5 @@
 
-package H9;
+package Main;
 
 //public class Graduate extends Student
 public class Graduate extends Student{
