@@ -1,5 +1,5 @@
 
-package H9;
+package Main;
 
 
 //public class Student extends Person and implements Comparable<Student>
